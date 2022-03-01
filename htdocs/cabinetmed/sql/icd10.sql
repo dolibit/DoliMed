@@ -1,8 +1,8 @@
 -- ICD-10 Version 2019 icd.who.int 
 
 -- llx_cabinetmed_diaglec 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-B99', 'Chapter I' , 'Certain infectious and parasitic diseases'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'CA00-B99', 'Chapter II' , 'Certain infectious and parasitic diseases'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-B99', 'Chapter I'  , 'Certain infectious and parasitic diseases'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 002  , 'C00-D48', 'Chapter II' , 'Neoplasms'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-B99', 'Chapter I' , 'Certain infectious and parasitic diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-B99', 'Chapter I' , 'Certain infectious and parasitic diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-B99', 'Chapter I' , 'Certain infectious and parasitic diseases'); 
