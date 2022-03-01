@@ -11,7 +11,7 @@ insert into llx_c_typent (id,code,libelle,active,module) values (102,'TE_FEMME',
 update llx_c_typent set active=0 where module != 'cabinetmed' and code != 'TE_UNKNOWN';
 
 
--- Formes juridiques -> Secteur d'activité
+-- Formes juridiques / Legal forms -> Secteur d'activité / Sector of activity
 --update llx_c_forme_juridique set module = 'cabinetmed' where rowid > 100000;
 insert into llx_c_forme_juridique (rowid,code,fk_pays,libelle,active,module) values (100001, 100001, 1,'Etudiant',            1,'cabinetmed');
 insert into llx_c_forme_juridique (rowid,code,fk_pays,libelle,active,module) values (100002, 100002, 1,'Retraité',            1,'cabinetmed');
