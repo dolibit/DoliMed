@@ -25,7 +25,8 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 20  , 'V01
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 21  , 'Z00-Z99', 'Chapter XXI'   , 'Factors influencing health status and contact with health services');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 22  , 'U00-U85', 'Chapter XXII'  , 'Codes for special purposes');
 
---                                                           VALUES ( 01   , 'A00-B99', 'Chapter I' , 'Certain infectious and parasitic diseases'); 
+
+-- CHAPTER I                                                 VALUES ( 01   , 'A00-B99', 'Chapter I' , 'Certain infectious and parasitic diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 010  , 'A00-A09', 'A00-A09', 'Intestinal infectious diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0100 , 'A00'    , 'A00'    , 'Cholera'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 01000, 'A00.0'  , 'A00.0'  , 'Cholera due to Vibrio cholerae 01, biovar cholerae'); 
@@ -60,7 +61,9 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0280 , 'A2
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 030  , 'A30-A49', 'A30-A49', 'Other bacterial diseases'); 
 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 050  , 'A50-A649', 'A30-A49', 'Other bacterial diseases'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 050  , 'A50-A64', 'A50-A64', 'Infections with a predominantly sexual mode of transmission'); 
+
+
 
 -- INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, U99.9!, 'Other', 'Other'); 
 -- INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, U99.9!, 'Other', 'Other'); 
