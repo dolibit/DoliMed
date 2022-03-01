@@ -45,9 +45,9 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 015  , 'A1
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0150 , 'A15'    , 'A15'    , 'Respiratory tuberculosis, bacteriologically and histologically confirmed'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0160 , 'A16'    , 'A16'    , 'Respiratory tuberculosis, not confirmed bacteriologically or histologically');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0170 , 'A17'    , 'A17'    , 'Tuberculosis of nervous system');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 01850 , 'A15'    , 'A15'    , 'Respiratory tuberculosis, bacteriologically and histologically confirmed');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0180 , 'A18'    , 'A18'    , 'Tuberculosis of other organs');
 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  3, 'A20-A28', 'A20-A28', 'Certain zoonotic bacterial diseases'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 020  , 'A20-A28', 'A20-A28', 'Certain zoonotic bacterial diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  4, 'A30-A49', 'A30-A49', 'Other bacterial diseases'); 
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, U99.9!, 'Other', 'Other'); 
