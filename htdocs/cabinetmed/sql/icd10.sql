@@ -16,9 +16,9 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 012  , 'L0
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 013  , 'M00-M99', 'Chapter XIII'  , 'Diseases of the musculoskeletal system and connective tissue');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 014  , 'N00-N99', 'Chapter XIV'   , 'Diseases of the genitourinary system');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 015  , 'O00-O99', 'Chapter XV'    , 'Pregnancy, childbirth and the puerperium');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 016  , 'P00-P96', 'Chapter XVI'  , 'Certain conditions originating in the perinatal period');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 016  , 'P00-P96', 'Chapter XVI'   , 'Certain conditions originating in the perinatal period');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 017  , 'Q00-Q99', 'Chapter XVII'  , 'Congenital malformations, deformations and chromosomal abnormalities');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 018  , 'O00-O99', 'Chapter XVIII' , 'Pregnancy, childbirth and the puerperium');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 018  , 'R00-R99', 'Chapter XVIII' , 'Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 019  , 'O00-O99', 'Chapter XIX'  , 'Pregnancy, childbirth and the puerperium');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 020  , 'O00-O99', 'Chapter XX'   , 'Pregnancy, childbirth and the puerperium');
 
