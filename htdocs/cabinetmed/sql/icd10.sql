@@ -19,7 +19,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 015  , 'O0
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 016  , 'P00-P96', 'Chapter XVI'   , 'Certain conditions originating in the perinatal period');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 017  , 'Q00-Q99', 'Chapter XVII'  , 'Congenital malformations, deformations and chromosomal abnormalities');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 018  , 'R00-R99', 'Chapter XVIII' , 'Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 019  , 'O00-O99', 'Chapter XIX'  , 'Pregnancy, childbirth and the puerperium');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 019  , 'S00-T98', 'Chapter XIX'   , 'Injury, poisoning and certain other consequences of external causes');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 020  , 'O00-O99', 'Chapter XX'   , 'Pregnancy, childbirth and the puerperium');
 
 
