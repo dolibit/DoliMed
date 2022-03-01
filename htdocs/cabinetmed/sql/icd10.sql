@@ -68,7 +68,10 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 050  , 'A5
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 065  , 'A65-A69', 'A65-A69', 'Other spirochaetal diseases'); 
 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 070  , 'A70-A74', 'A7065-A69', 'Other spirochaetal diseases'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 070  , 'A70-A74', 'A70-A74', 'Other diseases caused by chlamydiae'); 
+
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0750  , 'A70-A74', 'A70-A74', 'Other diseases caused by chlamydiae'); 
+
 
 -- Chapter II 
 
