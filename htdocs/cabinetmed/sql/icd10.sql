@@ -13,7 +13,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 009  , 'I0
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 010  , 'J00-J99', 'Chapter X'    , 'Diseases of the respiratory system'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 011  , 'K00-K93', 'Chapter XI'   , 'Diseases of the digestive system');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 012  , 'L00-L99', 'Chapter XII'  , 'Diseases of the skin and subcutaneous tissue');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 013  , 'M00-ML99', 'Chapter XII'  , 'Diseases of the skin and subcutaneous tissue');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 013  , 'M00-M99', 'Chapter XIII' , 'Diseases of the musculoskeletal system and connective tissue');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 014  , 'L00-L99', 'Chapter XII'  , 'Diseases of the skin and subcutaneous tissue');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 015  , 'L00-L99', 'Chapter XII'  , 'Diseases of the skin and subcutaneous tissue');
 
