@@ -70,7 +70,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 065  , 'A6
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 070  , 'A70-A74', 'A70-A74', 'Other diseases caused by chlamydiae'); 
 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0750  , 'A70-A74', 'A70-A74', 'Other diseases caused by chlamydiae'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 075  , 'A75-A79', 'A75-A79', 'Rickettsioses'); 
 
 
 -- Chapter II 
