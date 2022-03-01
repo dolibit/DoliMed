@@ -1,5 +1,8 @@
 -- ICD-10 Version 2019 icd.who.int 
 
+-- A -> 1 , B -> 2 ..
+
+
 -- llx_cabinetmed_diaglec 
 -- Chapter
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 01  , 'A00-B99', 'Chapter I'     , 'Certain infectious and parasitic diseases'); 
