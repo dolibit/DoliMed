@@ -12,9 +12,9 @@ insert into llx_c_typent (id,code,libelle,active,module) values (103,'TE_DIVERS'
 update llx_c_typent set active=0 where module != 'cabinetmed' and code != 'TE_UNKNOWN';
 
 
--- Formes juridiques / Legal forms -> Secteur d'activité / Sector of activity
+-- Formes juridiques / Legal forms -> Secteur d'activité / Sector of activity / Business / Job
 --update llx_c_forme_juridique set module = 'cabinetmed' where rowid > 100000;
-insert into llx_c_forme_juridique (rowid,code,fk_pays,libelle,active,module) values (100001, 100001, 1,'Etudiant',            1,'cabinetmed');
+insert into llx_c_forme_juridique (rowid,code,fk_pays,libelle,active,module) values (100001, 100001, 1,'Student',             1,'cabinetmed');
 insert into llx_c_forme_juridique (rowid,code,fk_pays,libelle,active,module) values (100002, 100002, 1,'Retraité',            1,'cabinetmed');
 insert into llx_c_forme_juridique (rowid,code,fk_pays,libelle,active,module) values (100003, 100003, 1,'Artisan',             1,'cabinetmed');
 insert into llx_c_forme_juridique (rowid,code,fk_pays,libelle,active,module) values (100004, 100004, 1,'Femme de ménage',     1,'cabinetmed');
