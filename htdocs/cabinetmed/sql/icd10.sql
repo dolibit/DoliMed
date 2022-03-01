@@ -3,9 +3,11 @@
 -- llx_cabinetmed_diaglec 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-B99', 'Chapter I'   , 'Certain infectious and parasitic diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 002  , 'C00-D48', 'Chapter II'  , 'Neoplasms'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'D50-D89', 'Chapter III' , 'Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-B99', 'Chapter I' , 'Certain infectious and parasitic diseases'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-B99', 'Chapter I' , 'Certain infectious and parasitic diseases'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 003  , 'D50-D89', 'Chapter III' , 'Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 004  , 'A00-B99', 'Chapter IV'  , 'Certain infectious and parasitic diseases'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 005  , 'A00-B99', 'Chapter V'   , 'Certain infectious and parasitic diseases'); 
+
+
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-A09', 'A00-A09'   , 'Intestinal infectious diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 010  , 'A00'    , 'A00'    , 'Cholera'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0100 , 'A00.0'  , 'A00.0'  , 'Cholera due to Vibrio cholerae 01, biovar cholerae'); 
