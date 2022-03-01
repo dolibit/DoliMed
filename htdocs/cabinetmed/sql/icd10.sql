@@ -1,28 +1,29 @@
 -- ICD-10 Version 2019 icd.who.int 
 
 -- llx_cabinetmed_diaglec 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-B99', 'Chapter I'     , 'Certain infectious and parasitic diseases'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 002  , 'C00-D48', 'Chapter II'    , 'Neoplasms'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 003  , 'D50-D89', 'Chapter III'   , 'Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 004  , 'E00-E90', 'Chapter IV'    , 'Endocrine, nutritional and metabolic diseases'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 005  , 'F00-F99', 'Chapter V'     , 'Mental and behavioural disorders'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 006  , 'G00-G99', 'Chapter VI'    , 'Diseases of the nervous system'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 007  , 'H00-H59', 'Chapter VII'   , 'Diseases of the eye and adnexa'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 008  , 'H60-H95', 'Chapter VIII'  , 'Diseases of the ear and mastoid process'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 009  , 'I00-I99', 'Chapter IX'    , 'Diseases of the circulatory system'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 010  , 'J00-J99', 'Chapter X'     , 'Diseases of the respiratory system'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 011  , 'K00-K93', 'Chapter XI'    , 'Diseases of the digestive system');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 012  , 'L00-L99', 'Chapter XII'   , 'Diseases of the skin and subcutaneous tissue');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 013  , 'M00-M99', 'Chapter XIII'  , 'Diseases of the musculoskeletal system and connective tissue');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 014  , 'N00-N99', 'Chapter XIV'   , 'Diseases of the genitourinary system');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 015  , 'O00-O99', 'Chapter XV'    , 'Pregnancy, childbirth and the puerperium');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 016  , 'P00-P96', 'Chapter XVI'   , 'Certain conditions originating in the perinatal period');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 017  , 'Q00-Q99', 'Chapter XVII'  , 'Congenital malformations, deformations and chromosomal abnormalities');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 018  , 'R00-R99', 'Chapter XVIII' , 'Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 019  , 'S00-T98', 'Chapter XIX'   , 'Injury, poisoning and certain other consequences of external causes');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 020  , 'V01-Y98', 'Chapter XX'    , 'External causes of morbidity and mortality');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 021  , 'Z00-Z99', 'Chapter XXI'   , 'Factors influencing health status and contact with health services');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 022  , 'U00-U85', 'Chapter XXII'  , 'Codes for special purposes');
+-- Chapter
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 01  , 'A00-B99', 'Chapter I'     , 'Certain infectious and parasitic diseases'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 02  , 'C00-D48', 'Chapter II'    , 'Neoplasms'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 03  , 'D50-D89', 'Chapter III'   , 'Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 04  , 'E00-E90', 'Chapter IV'    , 'Endocrine, nutritional and metabolic diseases'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 05  , 'F00-F99', 'Chapter V'     , 'Mental and behavioural disorders'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 06  , 'G00-G99', 'Chapter VI'    , 'Diseases of the nervous system'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 07  , 'H00-H59', 'Chapter VII'   , 'Diseases of the eye and adnexa'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 08  , 'H60-H95', 'Chapter VIII'  , 'Diseases of the ear and mastoid process'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 09  , 'I00-I99', 'Chapter IX'    , 'Diseases of the circulatory system'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 10  , 'J00-J99', 'Chapter X'     , 'Diseases of the respiratory system'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 11  , 'K00-K93', 'Chapter XI'    , 'Diseases of the digestive system');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 12  , 'L00-L99', 'Chapter XII'   , 'Diseases of the skin and subcutaneous tissue');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 13  , 'M00-M99', 'Chapter XIII'  , 'Diseases of the musculoskeletal system and connective tissue');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 14  , 'N00-N99', 'Chapter XIV'   , 'Diseases of the genitourinary system');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 15  , 'O00-O99', 'Chapter XV'    , 'Pregnancy, childbirth and the puerperium');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 16  , 'P00-P96', 'Chapter XVI'   , 'Certain conditions originating in the perinatal period');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 17  , 'Q00-Q99', 'Chapter XVII'  , 'Congenital malformations, deformations and chromosomal abnormalities');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 18  , 'R00-R99', 'Chapter XVIII' , 'Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 19  , 'S00-T98', 'Chapter XIX'   , 'Injury, poisoning and certain other consequences of external causes');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 20  , 'V01-Y98', 'Chapter XX'    , 'External causes of morbidity and mortality');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 21  , 'Z00-Z99', 'Chapter XXI'   , 'Factors influencing health status and contact with health services');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 22  , 'U00-U85', 'Chapter XXII'  , 'Codes for special purposes');
 
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-A09', 'A00-A09'   , 'Intestinal infectious diseases'); 
