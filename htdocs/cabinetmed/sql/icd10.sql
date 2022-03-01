@@ -60,6 +60,8 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0280 , 'A2
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 030  , 'A30-A49', 'A30-A49', 'Other bacterial diseases'); 
 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, U99.9!, 'Other', 'Other'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, U99.9!, 'Other', 'Other'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 050  , 'A50-A649', 'A30-A49', 'Other bacterial diseases'); 
+
+-- INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, U99.9!, 'Other', 'Other'); 
+-- INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, U99.9!, 'Other', 'Other'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 2209, 'U99.9!', 'Other', 'Other'); 
