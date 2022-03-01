@@ -12,7 +12,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 008  , 'H6
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 009  , 'I00-I99', 'Chapter IX'   , 'Diseases of the circulatory system'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 010  , 'J00-J99', 'Chapter X'    , 'Diseases of the respiratory system'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 011  , 'K00-K93', 'Chapter XI'   , 'Diseases of the digestive system');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 011  , 'K00-K93', 'Chapter XI'   , 'Diseases of the digestive system');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 012  , 'L00-L99', 'Chapter XII'  , 'Diseases of the skin and subcutaneous tissue');
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-A09', 'A00-A09'   , 'Intestinal infectious diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 010  , 'A00'    , 'A00'    , 'Cholera'); 
