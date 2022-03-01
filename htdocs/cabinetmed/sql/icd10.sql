@@ -51,6 +51,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 020  , 'A2
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0200 , 'A20'    , 'A20'    , 'Plague'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0210 , 'A21'    , 'A21'    , 'Tularaemia'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0220 , 'A22'    , 'A22'    , 'Anthrax');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0230 , 'A23'    , 'A23'    , 'Brucellosis');
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 030  , 'A30-A49', 'A30-A49', 'Other bacterial diseases'); 
 
