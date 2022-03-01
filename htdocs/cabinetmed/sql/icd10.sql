@@ -74,7 +74,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 075  , 'A7
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 080  , 'A80-A89', 'A80-A89', 'Viral infections of the central nervous system'); 
 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 090  , 'A92-A989', 'A80-A89', 'Viral infections of the central nervous system'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 090  , 'A92-A99', 'A92-A99', 'Arthropod-borne viral fevers and viral haemorrhagic fevers'); 
 
 -- Chapter II 
 
