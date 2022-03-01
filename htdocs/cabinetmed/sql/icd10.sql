@@ -49,6 +49,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0180 , 'A1
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 020  , 'A20-A28', 'A20-A28', 'Certain zoonotic bacterial diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0200 , 'A20'    , 'A20'    , 'Plague'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0210 , 'A21'    , 'A21'    , 'Tularaemia'); 
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 030  , 'A30-A49', 'A30-A49', 'Other bacterial diseases'); 
 
