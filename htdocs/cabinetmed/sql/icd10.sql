@@ -72,6 +72,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 070  , 'A7
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 075  , 'A75-A79', 'A75-A79', 'Rickettsioses'); 
 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 080  , 'A80-A89', 'A80-A89', 'Viral infections of the central nervous system'); 
 
 -- Chapter II 
 
