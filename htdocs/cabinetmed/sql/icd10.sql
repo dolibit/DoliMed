@@ -42,6 +42,8 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0108 , 'A0
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0109 , 'A09'    , 'A09'    , 'Other gastroenteritis and colitis of infectious and unspecified origin'); 
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 011, 'A15-A19', 'A15-A19', 'Tuberculosis'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 015, 'A15', 'A15-A19', 'Tuberculosis'); 
+
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  3, 'A20-A28', 'A20-A28', 'Certain zoonotic bacterial diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  4, 'A30-A49', 'A30-A49', 'Other bacterial diseases'); 
 
