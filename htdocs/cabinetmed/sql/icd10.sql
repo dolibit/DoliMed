@@ -21,7 +21,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 017  , 'Q0
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 018  , 'R00-R99', 'Chapter XVIII' , 'Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 019  , 'S00-T98', 'Chapter XIX'   , 'Injury, poisoning and certain other consequences of external causes');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 020  , 'V01-Y98', 'Chapter XX'    , 'External causes of morbidity and mortality');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 020  , 'V01-Y98', 'Chapter XX'    , 'External causes of morbidity and mortality');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 021  , 'Z00-Z99', 'Chapter XXI'   , 'Factors influencing health status and contact with health services');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 020  , 'V01-Y98', 'Chapter XX'    , 'External causes of morbidity and mortality');
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-A09', 'A00-A09'   , 'Intestinal infectious diseases'); 
