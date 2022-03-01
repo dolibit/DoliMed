@@ -5,7 +5,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A0
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 002  , 'C00-D48', 'Chapter II'  , 'Neoplasms'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 003  , 'D50-D89', 'Chapter III' , 'Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 004  , 'E00-E90', 'Chapter IV'  , 'Endocrine, nutritional and metabolic diseases'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 005  , 'AF00-B99', 'Chapter V'   , 'Certain infectious and parasitic diseases'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 005  , 'F00-F99', 'Chapter V'   , 'Mental and behavioural disorders'); 
 
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-A09', 'A00-A09'   , 'Intestinal infectious diseases'); 
