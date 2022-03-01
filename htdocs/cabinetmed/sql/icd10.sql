@@ -76,6 +76,8 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 080  , 'A8
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 090  , 'A92-A99', 'A92-A99', 'Arthropod-borne viral fevers and viral haemorrhagic fevers'); 
 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 010  , 'BA00-A09', 'A00-A09', 'Viral infections characterized by skin and mucous membrane lesions'); 
+
 -- Chapter II 
 
 
