@@ -66,6 +66,14 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 050  , 'A5
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 065  , 'A65-A69', 'A65-A69', 'Other spirochaetal diseases'); 
 
 
+-- Chapter II 
+
+
+-- Chapter III 
+
+
+-- Chapter IV  
+
 -- INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, U99.9!, 'Other', 'Other'); 
 -- INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, U99.9!, 'Other', 'Other'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 2209, 'U99.9!', 'Other', 'Other'); 
