@@ -9,7 +9,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, 'A00.1
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, 'A00.9'  , 'A00.9'  , 'Cholera, unspecified'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, 'A01'    , 'A01'    , 'Typhoid and paratyphoid fevers'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, 'A02'    , 'A02'    , 'Other salmonella infections'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, 'A00'    , 'A00'    , 'Cholera'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, 'A03'    , 'A03'    , 'Shigellosis'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, 'A00'    , 'A00'    , 'Cholera'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  2, 'A15-A19', 'A15-A19', 'Tuberculosis'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  3, 'A20-A28', 'A20-A28', 'Certain zoonotic bacterial diseases'); 
