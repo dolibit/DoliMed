@@ -26,10 +26,10 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 21  , 'Z00
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 22  , 'U00-U85', 'Chapter XXII'  , 'Codes for special purposes');
 
 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 010  , 'A00-A09', 'A00-A09'   , 'Intestinal infectious diseases'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 010  , 'A00-A09', 'A00-A09', 'Intestinal infectious diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0100 , 'A00'    , 'A00'    , 'Cholera'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 01000, 'A00.0'  , 'A00.0'  , 'Cholera due to Vibrio cholerae 01, biovar cholerae'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 01001, 'A00.1'  , 'A00.1'  , 'Cholera eltor'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 01001, 'A00.1'  , 'A00.1'  , 'Cholera due to Vibrio cholerae 01, biovar eltor'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 01009, 'A00.9'  , 'A00.9'  , 'Cholera, unspecified'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0101 , 'A01'    , 'A01'    , 'Typhoid and paratyphoid fevers'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0102 , 'A02'    , 'A02'    , 'Other salmonella infections'); 
