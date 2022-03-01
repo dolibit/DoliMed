@@ -43,7 +43,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0109 , 'A0
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 015  , 'A15-A19', 'A15-A19', 'Tuberculosis'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0150 , 'A15'    , 'A15'    , 'Respiratory tuberculosis, bacteriologically and histologically confirmed'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0150 , 'A15'    , 'A15'    , 'Respiratory tuberculosis, bacteriologically and histologically confirmed');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0160 , 'A16'    , 'A16'    , 'Respiratory tuberculosis, not confirmed bacteriologically or histologically');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0150 , 'A15'    , 'A15'    , 'Respiratory tuberculosis, bacteriologically and histologically confirmed');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0150 , 'A15'    , 'A15'    , 'Respiratory tuberculosis, bacteriologically and histologically confirmed');
 
