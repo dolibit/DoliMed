@@ -25,7 +25,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 20  , 'V01
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 21  , 'Z00-Z99', 'Chapter XXI'   , 'Factors influencing health status and contact with health services');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 22  , 'U00-U85', 'Chapter XXII'  , 'Codes for special purposes');
 
-
+--                                                           VALUES ( 01   , 'A00-B99', 'Chapter I' , 'Certain infectious and parasitic diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 010  , 'A00-A09', 'A00-A09', 'Intestinal infectious diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0100 , 'A00'    , 'A00'    , 'Cholera'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 01000, 'A00.0'  , 'A00.0'  , 'Cholera due to Vibrio cholerae 01, biovar cholerae'); 
@@ -41,7 +41,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0107 , 'A0
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0108 , 'A08'    , 'A08'    , 'Other bacterial intestinal infections'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0109 , 'A09'    , 'A09'    , 'Other gastroenteritis and colitis of infectious and unspecified origin'); 
 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  2, 'A15-A19', 'A15-A19', 'Tuberculosis'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 011, 'A15-A19', 'A15-A19', 'Tuberculosis'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  3, 'A20-A28', 'A20-A28', 'Certain zoonotic bacterial diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  4, 'A30-A49', 'A30-A49', 'Other bacterial diseases'); 
 
