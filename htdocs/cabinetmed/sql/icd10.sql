@@ -10,6 +10,9 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 006  , 'G0
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 007  , 'H00-H59', 'Chapter VII'  , 'Diseases of the eye and adnexa'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 008  , 'H60-H95', 'Chapter VIII' , 'Diseases of the ear and mastoid process'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 009  , 'I00-I99', 'Chapter IX'   , 'Diseases of the circulatory system'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 010  , 'J00-J99', 'Chapter X'    , 'Diseases of the respiratory system'); 
+
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 010  , 'J00-J99', 'Chapter X'    , 'Diseases of the respiratory system');
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-A09', 'A00-A09'   , 'Intestinal infectious diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 010  , 'A00'    , 'A00'    , 'Cholera'); 
