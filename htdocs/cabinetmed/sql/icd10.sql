@@ -8,9 +8,9 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, 'A00.0
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 01001, 'A00.1'  , 'A00.1'  , 'Cholera eltor'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 01009, 'A00.9'  , 'A00.9'  , 'Cholera, unspecified'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 01010, 'A01'    , 'A01'    , 'Typhoid and paratyphoid fevers'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, 'A02'    , 'A02'    , 'Other salmonella infections'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, 'A03'    , 'A03'    , 'Shigellosis'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, 'A04'    , 'A04'    , 'Other bacterial intestinal infections'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0102 , 'A02'    , 'A02'    , 'Other salmonella infections'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0103 , 'A03'    , 'A03'    , 'Shigellosis'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0104 , 'A04'    , 'A04'    , 'Other bacterial intestinal infections'); 
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  2, 'A15-A19', 'A15-A19', 'Tuberculosis'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  3, 'A20-A28', 'A20-A28', 'Certain zoonotic bacterial diseases'); 
