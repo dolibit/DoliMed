@@ -48,7 +48,9 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0170 , 'A1
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0180 , 'A18'    , 'A18'    , 'Tuberculosis of other organs');
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 020  , 'A20-A28', 'A20-A28', 'Certain zoonotic bacterial diseases'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  4, 'A30-A49', 'A30-A49', 'Other bacterial diseases'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 020  , 'A20', 'A20-A28', 'Certain zoonotic bacterial diseases'); 
+
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 030  , 'A30-A49', 'A30-A49', 'Other bacterial diseases'); 
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, U99.9!, 'Other', 'Other'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES (  1, U99.9!, 'Other', 'Other'); 
