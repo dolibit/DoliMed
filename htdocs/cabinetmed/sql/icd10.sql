@@ -15,7 +15,8 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 011  , 'K0
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 012  , 'L00-L99', 'Chapter XII'  , 'Diseases of the skin and subcutaneous tissue');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 013  , 'M00-M99', 'Chapter XIII' , 'Diseases of the musculoskeletal system and connective tissue');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 014  , 'N00-N99', 'Chapter XIV'  , 'Diseases of the genitourinary system');
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 015  , 'L00-L99', 'Chapter XII'  , 'Diseases of the skin and subcutaneous tissue');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 015  , 'O00-O99', 'Chapter XV'   , 'Pregnancy, childbirth and the puerperium');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 015  , 'O00-O99', 'Chapter XV'   , 'Pregnancy, childbirth and the puerperium');
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-A09', 'A00-A09'   , 'Intestinal infectious diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 010  , 'A00'    , 'A00'    , 'Cholera'); 
