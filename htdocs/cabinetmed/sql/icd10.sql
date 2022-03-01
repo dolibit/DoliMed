@@ -54,6 +54,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0220 , 'A2
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0230 , 'A23'    , 'A23'    , 'Brucellosis');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0240 , 'A24'    , 'A24'    , 'Glanders and melioidosis');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0250 , 'A25'    , 'A25'    , 'Rat-bite fevers');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0260 , 'A26'    , 'A26'    , 'Erysipeloid');
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 030  , 'A30-A49', 'A30-A49', 'Other bacterial diseases'); 
 
