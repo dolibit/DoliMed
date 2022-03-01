@@ -37,7 +37,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0103 , 'A0
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0104 , 'A04'    , 'A04'    , 'Other bacterial intestinal infections'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0105 , 'A05'    , 'A05'    , 'Other bacterial foodborne intoxications, not elsewhere classified'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0106 , 'A06'    , 'A06'    , 'Amoebiasis'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0107 , 'A07'    , 'A07'    , 'Other bacterial intestinal infections'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0107 , 'A07'    , 'A07'    , 'Other protozoal intestinal diseases'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0108 , 'A08'    , 'A08'    , 'Other bacterial intestinal infections'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0109 , 'A09'    , 'A09'    , 'Other gastroenteritis and colitis of infectious and unspecified origin'); 
 
