@@ -1,14 +1,14 @@
 -- ICD-10 Version 2019 icd.who.int 
 
 -- llx_cabinetmed_diaglec 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-B99', 'Chapter I'    , 'Certain infectious and parasitic diseases'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 002  , 'C00-D48', 'Chapter II'   , 'Neoplasms'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 003  , 'D50-D89', 'Chapter III'  , 'Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 004  , 'E00-E90', 'Chapter IV'   , 'Endocrine, nutritional and metabolic diseases'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 005  , 'F00-F99', 'Chapter V'    , 'Mental and behavioural disorders'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 006  , 'G00-G99', 'Chapter VI'   , 'Diseases of the nervous system'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 007  , 'H00-H59', 'Chapter VII'  , 'Diseases of the eye and adnexa'); 
-INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 008  , 'H60-H95', 'Chapter VIII' , 'Diseases of the ear and mastoid process'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 001  , 'A00-B99', 'Chapter I'     , 'Certain infectious and parasitic diseases'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 002  , 'C00-D48', 'Chapter II'    , 'Neoplasms'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 003  , 'D50-D89', 'Chapter III'   , 'Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 004  , 'E00-E90', 'Chapter IV'    , 'Endocrine, nutritional and metabolic diseases'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 005  , 'F00-F99', 'Chapter V'     , 'Mental and behavioural disorders'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 006  , 'G00-G99', 'Chapter VI'    , 'Diseases of the nervous system'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 007  , 'H00-H59', 'Chapter VII'   , 'Diseases of the eye and adnexa'); 
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 008  , 'H60-H95', 'Chapter VIII'  , 'Diseases of the ear and mastoid process'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 009  , 'I00-I99', 'Chapter IX'   , 'Diseases of the circulatory system'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 010  , 'J00-J99', 'Chapter X'    , 'Diseases of the respiratory system'); 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 011  , 'K00-K93', 'Chapter XI'   , 'Diseases of the digestive system');
