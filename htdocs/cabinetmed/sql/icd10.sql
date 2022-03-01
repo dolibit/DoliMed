@@ -56,6 +56,7 @@ INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0240 , 'A2
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0250 , 'A25'    , 'A25'    , 'Rat-bite fevers');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0260 , 'A26'    , 'A26'    , 'Erysipeloid');
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0270 , 'A27'    , 'A27'    , 'Leptospirosis');
+INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 0280 , 'A28'    , 'A28'    , 'Other zoonotic bacterial diseases, not elsewhere classified');
 
 INSERT INTO llx_cabinetmed_diaglec (rowid, icd, code, label) VALUES ( 030  , 'A30-A49', 'A30-A49', 'Other bacterial diseases'); 
 
