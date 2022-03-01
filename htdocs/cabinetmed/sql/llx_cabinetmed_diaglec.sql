@@ -17,10 +17,10 @@
 
 CREATE TABLE llx_cabinetmed_diaglec (
   rowid             integer AUTO_INCREMENT PRIMARY KEY,
+  icd	              varchar(12) NULL,
   code              varchar(8) NOT NULL,
   label             varchar(64) NOT NULL,
   active            smallint DEFAULT 1  NOT NULL,
-  icd			    varchar(12) NULL,
   position          integer DEFAULT 10,  
-  lang				varchar(12) NULL
+  lang				      varchar(12) NULL
 ) ENGINE=innodb;
