@@ -6,8 +6,8 @@ insert into llx_c_actioncomm (id, code, type, libelle, module, position) values 
 
 -- Type de tiers -> Sexe
 --update llx_c_typent set module = 'cabinetmed' where id > 100;
-insert into llx_c_typent (id,code,libelle,active,module) values (101,'TE_HOMME', 'Homme',            1,'cabinetmed');
-insert into llx_c_typent (id,code,libelle,active,module) values (102,'TE_FEMME', 'Femme',            1,'cabinetmed');
+insert into llx_c_typent (id,code,libelle,active,module) values (101,'TE_HOMME', 'Male',         1,'cabinetmed');
+insert into llx_c_typent (id,code,libelle,active,module) values (102,'TE_FEMME', 'Female',       1,'cabinetmed');
 update llx_c_typent set active=0 where module != 'cabinetmed' and code != 'TE_UNKNOWN';
 
 
